@@ -1,4 +1,4 @@
-<img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
+<img alt="Coder GIF" src="https://github.com/Alamin-Hossan/Alamin-Hossan/blob/main/fullstackjava%20image.jpg" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Md. Alamin Hossain.</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer from Bangladesh with academic project experience in building web applications using PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, mongoDB, etc and Deep learning with Pandas, OpenCV, CNN, RNN, Transfer Learning, Resnet50 etc. I have a strong foundation in web technologies, Web Networking, Machine learning and I'm constantly learning new technologies to stay up-to-date with the latest trends.</h3>
 
