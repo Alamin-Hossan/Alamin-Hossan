@@ -7,8 +7,8 @@
 - Also, I am working on Timedoor Academy as an ICT Teacher. I'm responsible to provide technology training on HTML, CSS, Bootstrap, Nuxt, Javascript, Laravel, React and manage website and app development projects.
 
 ## 🧠 What I'm currently learning
-I'm currently learning Python, AWS, Cloud and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful.
-- 🌱 I’m currently learning **AWS, Cloud related work**
+I'm currently learning JAVA, JSP, JPS, Hibernate and AWS. I believe that continuous learning is the key to becoming a successful.
+- 🌱 I’m currently learning **J2EE, AWS, Cloud related work, Security**
 
 
 
